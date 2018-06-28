@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Eloqua//NONSGML Eloqua Conversion Suite//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:d00557f4-e2ab-4113-bbb2-a154e8351e94
+SUMMARY:Structured Finance Hot Topics Breakfast: U.S. RMBS Analytics Break
+ fast
+LOCATION:McGraw-Hill Building\, New York\, NY
+DTSTART:20130430T123000Z
+DTEND:20130430T150000Z
+DTSTAMP:20130319T154840Z
+DESCRIPTION:Location:\nThe McGraw-Hill Building\n1221 Avenue of the Americ
+ as\nJames McGraw Hall - 50th Floor\nNew York\, NY  10020\n\nTime:\n8:30
+  a.m. - Breakfast and registration \n9:00 a.m. - Opening remarks \n11:0
+ 0 a.m. - Breakfast concludes \n
+END:VEVENT
+END:VCALENDAR
